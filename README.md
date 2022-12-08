@@ -2,7 +2,9 @@
 
 🗿 × Intermediate Java Developer (Spigot)
 
-`I'am working for:`
+🗿 × Advanced SS Verified
+
+`I'am currently working for:`
 
 |   Rank|Server|
 | ------------- | ------------- |
@@ -18,6 +20,8 @@
     ➥ GravityMC | Helper SS (✘)
     ➥ MoonWar | Helper SS (✘)
     ➥ SoundCraft | Helper SS (closed)
+    ➥ LemonClub | Helper SS (closed)
+    ➥ GlaceMC | Admin (closed)
     ➥ OriginMC | Manager (closed)
 
 ## Commissions
