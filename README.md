@@ -16,13 +16,13 @@
 | Discord  | mighty#7030 |
 
 ## Staff Experiences
-    ➥ EliosNetwork × Helper SS (currently owner)
-    ➥ GravityMC × Helper SS (✘)
-    ➥ MoonWar × Helper SS (✘)
-    ➥ SoundCraft × Helper SS (closed)
-    ➥ LemonClub × Helper SS (closed)
-    ➥ GlaceMC × Admin (closed)
-    ➥ OriginMC × Manager (closed)
+    ➥ EliosNetwork | Helper SS (currently owner)
+    ➥ GravityMC | Helper SS (✘)
+    ➥ MoonWar | Helper SS (✘)
+    ➥ SoundCraft | Helper SS (closed)
+    ➥ LemonClub | Helper SS (closed)
+    ➥ GlaceMC | Admin (closed)
+    ➥ OriginMC | Manager (closed)
 
 ## Commissions
 
