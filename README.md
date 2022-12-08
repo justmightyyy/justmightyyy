@@ -4,7 +4,7 @@
 
 🗿 × Advanced SS Verified
 
-🗿 × 
+🗿 × Italian
 
 `I'am currently working for:`
 
