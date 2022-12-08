@@ -35,3 +35,9 @@
 | Server setup|variable |
 | Plugin setup|variable |
 | Custom plugin|variable |
+
+## Website
+
+`Website coming soon...`
+
+    ➥ I am looking for html developer & graphic designer for the website, contact me.
