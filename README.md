@@ -25,21 +25,3 @@
     ➥ LemonClub | Helper SS (closed)
     ➥ GlaceMC | Admin (closed)
     ➥ OriginMC | Manager (closed)
-
-## Commissions
-
-`You can contact me for:`
-
-|   Commission|Price|
-| ------------- | ------------- |
-| AntiCheat setup| 1€ |
-| VPS setup| 3€ |
-| Server setup|variable |
-| Plugin setup|variable |
-| Custom plugin|variable |
-
-## Website
-
-`Website coming soon...`
-
-    ➥ I am looking for html developer & graphic designer for the website, contact me.
