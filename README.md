@@ -1,4 +1,4 @@
-## mighty
+## regsvr32 | linktr.ee/BypassAll
 
 🗿 × Intermediate Java Developer (Spigot)
 
